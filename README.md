@@ -52,3 +52,5 @@ Supported future planning with trend-based sales forecasting.
 # Screenshot/Demo
 show dashboard looks like
 example: https://github.com/Arkopriya/Sales-analysis-dashboard/blob/main/dasboard_sales1.png
+
+
